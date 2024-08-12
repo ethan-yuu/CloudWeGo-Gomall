@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+# Develop tools
+.vscode/
+.idea/
+
+# project
+temp/
+temp/logs
